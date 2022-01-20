@@ -10,6 +10,6 @@ To this end, we developed a scalable machine learning product to predict flight 
 
 
 
-### Preview
+### Preview:
 
 ![](https://github.com/jordanjpappas/DSCC202-402-Forecasting-Flight-Delay-Final-Project/blob/main/DIA%20Framework-DIA%20Process%20-%201.png)
